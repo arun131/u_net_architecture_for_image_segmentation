@@ -1,0 +1,7 @@
+# Requirements for Keras U-Net
+keras
+tensorflow
+
+# Requirements for PyTorch U-Net
+torch
+torchvision
